@@ -1,2 +1,0 @@
-# netlify-experiment
-Netlify experimentation
