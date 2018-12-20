@@ -2,89 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6b95e15-7b98-41a9-84b9-dabb1b61ff47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_banner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_gallery.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_items.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_spotlight.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/fulls/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/thumbs/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spotlight01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spotlight02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spotlight03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner.bu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/spotlight01.bu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/spotlight02.bu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/spotlight03.bu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spotlight01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spotlight01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spotlight02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spotlight02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spotlight03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spotlight03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,34 +30,102 @@
     <settings binDirPath="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-313">
+              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+              <folding>
+                <element signature="e#15198#15204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/sass/components/_image.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/sass/base/_typography.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="165" column="36" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4232">
+              <caret line="184" column="29" selection-start-line="184" selection-start-column="29" selection-end-line="184" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/images/gallery/fulls/01.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>media</find>
+      <find>breakpoint</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/assets/sass</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/assets/sass/main.scss" />
+        <option value="$PROJECT_DIR$/assets/sass/components/_image.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3840" />
-    <option name="y" value="-571" />
-    <option name="width" value="1920" />
-    <option name="height" value="2137" />
+    <option name="y" value="23" />
+    <option name="width" value="1165" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,32 +136,25 @@
             <path>
               <item name="netlify-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="netlify-experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netlify-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="netlify-experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netlify-experiment" type="b2602c69:ProjectViewProjectNode" />
               <item name="netlify-experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="fulls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netlify-experiment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netlify-experiment" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="thumbs" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,10 +165,11 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -210,24 +205,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545236389049</updated>
-      <workItem from="1545236391709" duration="308000" />
+      <workItem from="1545236391709" duration="789000" />
+      <workItem from="1545342023342" duration="1448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="308000" />
+    <option name="totallyTimeSpent" value="2237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3840" y="-571" width="1920" height="2137" extended-state="0" />
+    <frame x="0" y="23" width="1165" height="1177" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23597507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -235,11 +227,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Elm" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Elm" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,17 +249,73 @@
     <entry file="file://$PROJECT_DIR$/images/pic02.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/banner.jpg">
+    <entry file="file://$PROJECT_DIR$/images/banner.bu.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/spotlight01.jpg">
+    <entry file="file://$PROJECT_DIR$/images/spotlight01.bu.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/gallery/fulls/01.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4232">
+          <caret line="184" column="29" selection-start-line="184" selection-start-column="29" selection-end-line="184" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="165" column="36" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/components/_image.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/sass/noscript.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="e#15198#15204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
