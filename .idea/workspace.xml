@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6b95e15-7b98-41a9-84b9-dabb1b61ff47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/banner.bu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo-block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spotlight01.bu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spotlight02.bu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spotlight03.bu.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spotlight01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spotlight01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spotlight02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spotlight02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/spotlight03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spotlight03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-demo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -206,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545236389049</updated>
       <workItem from="1545236391709" duration="789000" />
-      <workItem from="1545342023342" duration="1448000" />
+      <workItem from="1545342023342" duration="1526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2237000" />
+    <option name="totallyTimeSpent" value="2315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1165" height="1177" extended-state="0" />
@@ -312,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
